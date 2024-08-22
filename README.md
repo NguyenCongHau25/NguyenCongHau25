@@ -26,11 +26,11 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=phamthe-khdl&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="phamthe-khdl" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nguyenconghau25&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="phamthe-khdl" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=phamthe-khdl&show_icons=true&locale=en&theme=tokyonight" alt="phamthe-khdl" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nguyenconghau25&show_icons=true&locale=en&theme=tokyonight" alt="phamthe-khdl" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=phamthe-khdl&theme=tokyonight" alt="phamthe-khdl" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nguyenconghau25&theme=tokyonight" alt="phamthe-khdl" /></p>
 
 
 
