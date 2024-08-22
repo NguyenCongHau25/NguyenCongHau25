@@ -6,7 +6,6 @@
 <img align="right" alt="Coder GIF" height=300 width=450 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
 - 💬 I'm in field **Computer Science**
 
 - 📫 How to contact me **conghau121205@gmail.com**
