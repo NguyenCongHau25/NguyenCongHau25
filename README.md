@@ -9,8 +9,6 @@
   <img src="https://komarev.com/ghpvc/?username=NguyenCongHau25&label=Profile%20views&color=0e75b6&style=flat" alt="NguyenCongHau25" />
 </p>
 
-<img align="right" alt="Coder GIF" height="300" width="450" src="https://cdn.videoplasty.com/animation/midnight-coding-late-night-session-lofi-animation-stock-animation-51917-1280x720.jpg" />
-
 
 - 💬 I'm in field **Computer Science** 
 
