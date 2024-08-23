@@ -9,9 +9,6 @@
   <h3>B.S. in Computer Science Aug 2019 - Present at University of Information Technology VNU-HCM, Viet Nam.</h3>
 </div>
 
-<!-- Coder GIF -->
-<img align="right" alt="Coder GIF" height="150" width="225" src="https://cdn.videoplasty.com/animation/midnight-coding-late-night-session-lofi-animation-stock-animation-51917-1280x720.jpg" />
-
 
 - 💬 Ask me about **Machine Learning, Computer Science**
 - 📫 How to reach me **conghau121205@gmail.com**
