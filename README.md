@@ -10,7 +10,7 @@
 </div>
 
 <!-- Coder GIF -->
-<img align="right" alt="Coder GIF" height="300" width="450" src="https://cdn.videoplasty.com/animation/midnight-coding-late-night-session-lofi-animation-stock-animation-51917-1280x720.jpg" />
+<img align="right" alt="Coder GIF" height="150" width="225" src="https://cdn.videoplasty.com/animation/midnight-coding-late-night-session-lofi-animation-stock-animation-51917-1280x720.jpg" />
 
 
 - 💬 Ask me about **Machine Learning, Computer Science**
