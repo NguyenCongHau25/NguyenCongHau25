@@ -59,17 +59,14 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NguyenCongHau25&repo=NHAP-MON-LAP-TRINH&theme=tokyonight" />
 </a>
 
-<a href="https://github.com/PhamThe-KHDL/DS307.N11-Social-Media-Data-Analysis/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PhamThe-KHDL&repo=DS307.N11-Social-Media-Data-Analysis&theme=gruvbox" />
+<a href="https://github.com/NguyenCongHau25/CAU-TRUC-DU-LIEU-VA-GIAI-THUAT">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NguyenCongHau25&repo=CAU-TRUC-DU-LIEU-VA-GIAI-THUAT&theme=gruvbox" />
 </a>
 
-<a href="https://github.com/PhamThe-KHDL/DS300.N11-Recommendation-System/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PhamThe-KHDL&repo=DS300.N11-Recommendation-System&theme=dark" />
+<a href="https://github.com/NguyenCongHau25/LAP-TRINH-HUONG-DOI-TUONG">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NguyenCongHau25&repo=LAP-TRINH-HUONG-DOI-TUONG&theme=dark" />
 </a>
 
-<a href="https://github.com/PhamThe-KHDL/DS200.M21-Big-Data/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PhamThe-KHDL&repo=DS200.M21-Big-Data&theme=merko" />
+<a href="https://github.com/NguyenCongHau25/TO-CHUC-VA-CAU-TRUC-MAY-TINH-II">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NguyenCongHau25&repo=TO-CHUC-VA-CAU-TRUC-MAY-TINH-II&theme=merko" />
 </a>
-
-<a href="https://github.com/PhamThe-KHDL/DS304.M21-Experimental-Design-and-Analysis/">
-  <img align="center" src="https://github-readme-st
