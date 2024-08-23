@@ -1,4 +1,4 @@
-[![NguyenCongHau](https://images.app.goo.gl/3LTSLKB8gGwmbgiD7)](https://github.com/NguyenCongHau25)
+[![NguyenCongHau](https://raw.githubusercontent.com/gist/Prince-Shivaram/106aa0f37f016eda7ec65de5acb90471/raw/760aff1fe331f8a445d4573aa88fd2ec16e72b83/My-work.gif)](https://github.com/NguyenCongHau25)
 <h1 align="center">Hi 👋, I'm NguyenCongHau</h1>
 <h3 align="center">B.S. in Computer Science Aug 2023 - Present at University of Information Technology VNU-HCM, Viet Nam.</h3>
 
