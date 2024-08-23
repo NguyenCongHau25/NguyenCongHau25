@@ -3,7 +3,7 @@
 ​
 
 <h1 align="center">Hi 👋, I'm NguyenCongHau</h1>
-<h3 align="left">B.S. in Computer Science Aug 2023 - Present at University of Information Technology VNU-HCM, Viet Nam.</h3>
+<h3 align="center">B.S. in Computer Science Aug 2023 - Present at University of Information Technology VNU-HCM, Viet Nam.</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=NguyenCongHau25&label=Profile%20views&color=0e75b6&style=flat" alt="NguyenCongHau25" />
