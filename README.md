@@ -55,7 +55,7 @@
 <!-- Repositories -->
 <h3 align="left">Repositories:</h3>
 
-<a href="https://github.com/NguyenCongHau25/NHAP-MON-LAP-TRINH/">
+<a href="https://github.com/NguyenCongHau25/NHAP-MON-LAP-TRINH">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NguyenCongHau25&repo=NguyenCongHau25/NHAP-MON-LAP-TRINH&theme=tokyonight" />
   </a>
 
