@@ -1,4 +1,4 @@
-[![NguyenCongHau](https://datalushq.com/wp-content/uploads/2022/07/icon_2.gif)](https://github.com/PhamThe-KHDL)
+[![NguyenCongHau](https://images.app.goo.gl/3LTSLKB8gGwmbgiD7)](https://github.com/NguyenCongHau25)
 <h1 align="center">Hi 👋, I'm NguyenCongHau</h1>
 <h3 align="center">B.S. in Computer Science Aug 2023 - Present at University of Information Technology VNU-HCM, Viet Nam.</h3>
 
