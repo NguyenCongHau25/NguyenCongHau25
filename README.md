@@ -39,15 +39,18 @@
 
 <!-- GitHub Stats -->
 <h3 align="left">Github Stats:</h3>
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=NguyenCongHau25&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="NguyenCongHau25"/>
-</p>
-<p>&nbsp;
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=NguyenCongHau25&show_icons=true&locale=en&theme=tokyonight" alt="NguyenCongHau25"/>
-</p>
-<p>
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=NguyenCongHau25&theme=tokyonight" alt="NguyenCongHau25"/>
-</p>
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NguyenCongHau25&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="NguyenCongHau25" />
+</div>
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=NguyenCongHau25&show_icons=true&locale=en&theme=tokyonight" alt="NguyenCongHau25" />
+</div>
+
+<div align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NguyenCongHau25&theme=tokyonight" alt="NguyenCongHau25" />
+</div>
 
 <!-- Repositories -->
 <h3 align="left">Repositories:</h3>
