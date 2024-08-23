@@ -56,8 +56,8 @@
 <h3 align="left">Repositories:</h3>
 
 <a href="https://github.com/NguyenCongHau25/NHAP-MON-LAP-TRINH/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NguyenCongHau25&repo=NguyenCongHau25/NHAP-MON-LAP-TRINH" />
-</a>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NguyenCongHau25&repo=NguyenCongHau25/NHAP-MON-LAP-TRINH&theme=tokyonight" />
+  </a>
 
 <a href="https://github.com/PhamThe-KHDL/DS307.N11-Social-Media-Data-Analysis/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PhamThe-KHDL&repo=DS307.N11-Social-Media-Data-Analysis&theme=gruvbox" />
