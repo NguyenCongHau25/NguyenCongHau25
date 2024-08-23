@@ -1,11 +1,16 @@
-[![NguyenCongHau](https://raw.githubusercontent.com/gist/Prince-Shivaram/106aa0f37f016eda7ec65de5acb90471/raw/760aff1fe331f8a445d4573aa88fd2ec16e72b83/My-work.gif)](https://github.com/NguyenCongHau25)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/gist/Prince-Shivaram/106aa0f37f016eda7ec65de5acb90471/raw/760aff1fe331f8a445d4573aa88fd2ec16e72b83/My-work.gif" alt="NguyenCongHau25">
+​⬤
+
 <h1 align="center">Hi 👋, I'm NguyenCongHau</h1>
 <h3 align="center">B.S. in Computer Science Aug 2023 - Present at University of Information Technology VNU-HCM, Viet Nam.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=phamthe-khdl&label=Profile%20views&color=0e75b6&style=flat" alt="phamthe-khdl" /> </p>
-<img align="right" alt="Coder GIF" height=300 width=450 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=NguyenCongHau25&label=Profile%20views&color=0e75b6&style=flat" alt="NguyenCongHau25" />
+</p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<img align="right" alt="Coder GIF" height="300" width="450" src="https://cdn.videoplasty.com/animation/midnight-coding-late-night-session-lofi-animation-stock-animation-51917-1280x720.jpg" />
+
 
 - 💬 I'm in field **Computer Science** 
 
