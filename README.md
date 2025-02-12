@@ -48,25 +48,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=NguyenCongHau25&show_icons=true&locale=en&theme=tokyonight" alt="NguyenCongHau25" />
 </div>
 
-<div align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NguyenCongHau25&theme=tokyonight" alt="NguyenCongHau25" />
-</div>
-
-<!-- Repositories -->
-<h3 align="left">Repositories:</h3>
-
-<a href="https://github.com/NguyenCongHau25/NHAP-MON-LAP-TRINH/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NguyenCongHau25&repo=NHAP-MON-LAP-TRINH&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/NguyenCongHau25/CAU-TRUC-DU-LIEU-VA-GIAI-THUAT">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NguyenCongHau25&repo=CAU-TRUC-DU-LIEU-VA-GIAI-THUAT&theme=gruvbox" />
-</a>
-
-<a href="https://github.com/NguyenCongHau25/LAP-TRINH-HUONG-DOI-TUONG">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NguyenCongHau25&repo=LAP-TRINH-HUONG-DOI-TUONG&theme=dark" />
-</a>
-
-<a href="https://github.com/NguyenCongHau25/TO-CHUC-VA-CAU-TRUC-MAY-TINH-II">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NguyenCongHau25&repo=TO-CHUC-VA-CAU-TRUC-MAY-TINH-II&theme=merko" />
-</a>
