@@ -5,7 +5,7 @@
     <img src="https://i.pinimg.com/originals/79/9e/0d/799e0d7779f6ea6c3a89885ff60c55af.gif" alt="NguyenCongHau"/>
   </a>
 
-  <h1>Hi 👋, I'm NguyenCongHau</h1>
+  <h1>Hi 👋, I'm Nguyen Cong Hau</h1>
   <h3>B.S. in Computer Science Aug 2023 - Present at University of Information Technology VNU-HCM, Viet Nam.</h3>
 </div>
 
