@@ -6,7 +6,7 @@
   </a>
 
   <h1>Hi 👋, I'm NguyenCongHau</h1>
-  <h3>B.S. in Computer Science Aug 2019 - Present at University of Information Technology VNU-HCM, Viet Nam.</h3>
+  <h3>B.S. in Computer Science Aug 2023 - Present at University of Information Technology VNU-HCM, Viet Nam.</h3>
 </div>
 
 
