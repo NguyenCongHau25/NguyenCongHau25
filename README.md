@@ -42,8 +42,8 @@
     <img src="https://github-readme-stats.vercel.app/api?username=NguyenCongHau25&show_icons=true&hide=contribs,issues&hide_border=true" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenCongHau25&layout=compact&show_icons=true&hide_border=true" />
   </td>
-  <td   
-    <img src="https://i.pinimg.com/originals/79/9e/0d/799e0d7779f6ea6c3a89885ff60c55af.gif" alt="NguyenCongHau"/>
+  <td>
+  <img src="https://i.pinimg.com/originals/79/9e/0d/799e0d7779f6ea6c3a89885ff60c55af.gif" alt="NguyenCongHau"/>
   </td>
 </tr>
 <table>
