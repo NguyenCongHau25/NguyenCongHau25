@@ -1,10 +1,9 @@
 
-<!-- Profile GIF and Intro -->
+### Profile GIF and Intro
 <div align="center">
   <h1>Hi 👋, I'm Nguyen Cong Hau</h1>
   <h3>B.S. in Computer Science Aug 2023 - Present at University of Information Technology VNU-HCM, Viet Nam.</h3>
 </div>
-
 
 - 💬 Ask me about **Machine Learning, Computer Science**
 - 📫 How to reach me **conghau121205@gmail.com**
@@ -19,7 +18,8 @@
   </a>
 </p>
 
-<!-- Languages and Tools -->
+## Languages and Tools
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
