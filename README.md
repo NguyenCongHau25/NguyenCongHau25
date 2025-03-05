@@ -1,5 +1,5 @@
 
-### Profile GIF and Intro
+### Introduction 
 <div align="center">
   <h1>Hi 👋, I'm Nguyen Cong Hau</h1>
   <h3>B.S. in Computer Science Aug 2023 - Present at University of Information Technology VNU-HCM, Viet Nam.</h3>
@@ -10,7 +10,7 @@
 - 📄 Know about my experiences [Résumé]
 - ⚡ Fun fact **I am Funny**
 
-<!-- Connect with Me -->
+### Connect with Me
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.facebook.com/conghau1205" target="_blank">
