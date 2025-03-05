@@ -37,14 +37,17 @@
     </a> 
 </p>
 
-<!-- GitHub Stats -->
-<h3 align="left">Github Stats:</h3>
+## ✨ GitHub Stats   
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NguyenCongHau25&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="NguyenCongHau25" />
-</div>
+![Visitors](https://api.visitorbadge.io/api/daily?path=https%3A%2F%2Fgithub.com%2FCodexploreRepo&label=VISITORS&labelColor=%232ccce4&countColor=%23697689&style=flat)
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=NguyenCongHau25&show_icons=true&locale=en&theme=tokyonight" alt="NguyenCongHau25" />
-</div>
+<table>
+<tr>
+  <td width="48%">
+    <img src="https://github-readme-stats.vercel.app/api?username=CodexploreRepo&show_icons=true&hide=contribs,issues&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodexploreRepo&layout=compact&show_icons=true&hide_border=true" />
+  </td>
+  <td width="52%"><img alt="gif" align="right" src=".github/assets/coding.gif"/></td>
+</tr>
+<table>
 
