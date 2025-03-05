@@ -1,10 +1,6 @@
 
 <!-- Profile GIF and Intro -->
 <div align="center">
-  <a href="https://github.com/NguyenCongHau25">
-    <img src="https://i.pinimg.com/originals/79/9e/0d/799e0d7779f6ea6c3a89885ff60c55af.gif" alt="NguyenCongHau"/>
-  </a>
-
   <h1>Hi 👋, I'm Nguyen Cong Hau</h1>
   <h3>B.S. in Computer Science Aug 2023 - Present at University of Information Technology VNU-HCM, Viet Nam.</h3>
 </div>
@@ -47,7 +43,9 @@
     <img src="https://github-readme-stats.vercel.app/api?username=NguyenCongHau25&show_icons=true&hide=contribs,issues&hide_border=true" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenCongHau25&layout=compact&show_icons=true&hide_border=true" />
   </td>
-  <td width="52%"><img alt="gif" align="right" src=".github/assets/coding.gif"/></td>
+  <td   
+    <img src="https://i.pinimg.com/originals/79/9e/0d/799e0d7779f6ea6c3a89885ff60c55af.gif" alt="NguyenCongHau"/>
+  </td>
 </tr>
 <table>
 
